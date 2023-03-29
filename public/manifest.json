@@ -1,0 +1,25 @@
+{
+  "short_name": "Wolf AI",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "log.png",
+      "sizes": "image/png",
+      "type": "512x512"
+    },
+    {
+      "src": "log.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "log.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
